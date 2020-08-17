@@ -2,11 +2,11 @@ library(tidyverse)
 library(lme4)
 
 ###########
-d = read_csv("args_output.csv") %>%
+d = read_csv("PAS-UD/args_output.csv") %>%
   filter(pos == "VERB", deprel == "root",
-         #grepl("_", subj_type) == F, # exclude when multiple subj or obj
-         #grepl("_", obj_type) == F,
-         #has_comp == F #exclude comp or not
+         grepl("_", subj_type) == F, # exclude when multiple subj or obj
+         grepl("_", obj_type) == F,
+         has_comp == F #exclude comp or not
          ) %>% 
   group_by(lang) %>%
   mutate(langn = n()) %>%
