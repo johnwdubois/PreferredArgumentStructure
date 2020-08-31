@@ -1,0 +1,63 @@
+,deprel,feats,nsubj_0,obj_0,obl_0,ccomp_0,mark_0,xcomp_0,aux_0,vocative_0,conj_0,conj_1,advmod_0,advcl_0,obl_1,cc_0,aux_1,aux:neg_0,aux:neg_1,cop_0,advmod_1,advmod:tmod_0,conj_2,lang
+0,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Prt')])",4,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+1,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+2,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+3,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Prt')])",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+4,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+5,root,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+6,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2')])",0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+7,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Prt')])",1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+8,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+9,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Prt')])",5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+10,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Prt')])",2,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+11,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Prt')])",5,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+12,advcl,"OrderedDict([('Case', 'Abe'), ('VerbForm', 'Ger')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+13,root,,4,0,1,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+14,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+15,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+16,xcomp,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '2')])",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+17,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Prt')])",1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+18,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Prt')])",5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+19,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Prt')])",0,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+20,root,"OrderedDict([('Valency', '1'), ('VerbForm', 'Inf')])",0,0,1,0,0,1,1,0,0,0,0,1,4,0,1,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+21,xcomp,,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+22,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Part')])",1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+23,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Part')])",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,UD_Skolt_Sami-Giellagas
+24,root,"OrderedDict([('VerbForm', 'Inf')])",0,AUX-mod,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+25,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Part')])",5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,UD_Skolt_Sami-Giellagas
+26,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Part'), ('Voice', 'Pass')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+27,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Prt')])",1,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+28,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Prt')])",3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,UD_Skolt_Sami-Giellagas
+29,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Prt')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+30,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Prt')])",0,0,5,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,UD_Skolt_Sami-Giellagas
+31,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+32,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+33,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,UD_Skolt_Sami-Giellagas
+34,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Prt')])",3,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+35,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Prt')])",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+36,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Prt')])",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+37,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Prt')])",3,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+38,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",1,0,3,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+39,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",1,0,3,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+40,conj,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Part')])",1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+41,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,UD_Skolt_Sami-Giellagas
+42,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+43,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+44,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+45,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+46,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Prt')])",0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,1,UD_Skolt_Sami-Giellagas
+47,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",5,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+48,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+49,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,3,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+50,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+51,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+52,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,UD_Skolt_Sami-Giellagas
+53,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+54,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+55,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+56,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",1,0,3,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,UD_Skolt_Sami-Giellagas
+57,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,UD_Skolt_Sami-Giellagas
+58,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+59,ccomp,"OrderedDict([('VerbForm', 'Inf')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+60,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas
+61,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Prt')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Skolt_Sami-Giellagas

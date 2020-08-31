@@ -1,0 +1,1037 @@
+,deprel,feats,obj_0,advmod_0,advcl_0,obl:agent_0,obl_0,nsubj_0,conj_0,obl_1,aux_0,xcomp_0,mark_0,ccomp_0,cc_0,advmod_1,parataxis_0,obj_1,nummod_0,det_0,obl_2,case_0,appos_0,advcl_1,xcomp_1,csubj_0,iobj_0,mark_1,nsubj_1,advmod_2,amod_0,discourse_0,lang
+0,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",1,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+2,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+3,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Past')])",1,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+4,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+5,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+6,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+7,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,ADP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+8,advcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+9,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+10,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+11,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+12,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+13,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+14,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+15,conj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'AM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+16,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+17,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+18,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+19,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+20,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+21,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+22,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,ADP,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+23,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+24,conj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+25,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+26,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+27,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+28,parataxis,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+29,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+30,conj,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+31,ccomp,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,3,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+32,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+33,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,1,0,0,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+34,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+35,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+36,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+37,advcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+38,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+39,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+40,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+41,root,"OrderedDict([('Gender', 'Fem'), ('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",5,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+42,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+43,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+44,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+45,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+46,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Fut')])",1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+47,conj,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",0,0,0,0,5,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+48,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+49,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+50,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+51,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+52,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+53,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Fut')])",0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+54,advcl,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+55,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+56,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+57,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+58,conj,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+59,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+60,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+61,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+62,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+63,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+64,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+65,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+66,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+67,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+68,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+69,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+70,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+71,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+72,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+73,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+74,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+75,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+76,root,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+77,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+78,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+79,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+80,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+81,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+82,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+83,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+84,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+85,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+86,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+87,acl:relcl,"OrderedDict([('Mood', 'Cnd'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+88,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+89,acl:relcl,"OrderedDict([('Mood', 'Cnd'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+90,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+91,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+92,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+93,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+94,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+95,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",4,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+96,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+97,ccomp,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+98,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+99,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+100,root,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+101,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+102,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+103,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+104,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+105,acl,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+106,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+107,root,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+108,root,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+109,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+110,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,ADP,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+111,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+112,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+113,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,5,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+114,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+115,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+116,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+117,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+118,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+119,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+120,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+121,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+122,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+123,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+124,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+125,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+126,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,ADP,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+127,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",1,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+128,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+129,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",2,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+130,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+131,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+132,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+133,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,5,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+134,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+135,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,1,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+136,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+137,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+138,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,NUM,0,0,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+139,obj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'AM'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+140,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+141,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+142,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,1,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+143,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Fut')])",1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+144,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",4,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+145,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+146,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+147,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+148,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+149,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+150,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+151,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,5,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+152,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+153,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+154,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+155,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+156,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+157,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+158,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+159,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+160,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+161,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+162,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+163,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",1,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+164,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+165,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,3,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+166,root,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",5,1,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+167,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,4,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+168,conj,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",0,0,0,0,5,0,0,ADP,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+169,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+170,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+171,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+172,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+173,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+174,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'AM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+175,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+176,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+177,root,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+178,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+179,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+180,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+181,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+182,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+183,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+184,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+185,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,1,1,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+186,advcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+187,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+188,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+189,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+190,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+191,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,1,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+192,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+193,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+194,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+195,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+196,acl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Past')])",1,0,0,5,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+197,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Fut')])",1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+198,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+199,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+200,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+201,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+202,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+203,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+204,acl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,0,5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+205,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+206,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+207,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+208,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+209,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+210,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+211,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+212,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+213,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+214,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+215,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+216,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+217,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+218,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,1,1,0,5,1,0,5,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+219,acl:relcl,"OrderedDict([('Mood', 'Cnd'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past')])",1,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+220,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+221,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+222,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,1,0,0,5,1,0,5,0,0,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+223,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+224,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",2,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+225,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+226,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+227,advcl,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+228,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+229,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+230,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+231,conj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,5,0,5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+232,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+233,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+234,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+235,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+236,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",3,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+237,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+238,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+239,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+240,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+241,ccomp,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+242,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+243,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,VERB,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+244,nsubj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'NM'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+245,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+246,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+247,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+248,advcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+249,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+250,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+251,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+252,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+253,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+254,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+255,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",3,1,0,0,ADP,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+256,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+257,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+258,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+259,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+260,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+261,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+262,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+263,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+264,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+265,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",3,0,0,0,5,5,1,5,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+266,conj,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,1,0,ADP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+267,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,ADP,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+268,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+269,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",4,0,0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+270,conj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'AM'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+271,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+272,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+273,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+274,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+275,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+276,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+277,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+278,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+279,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+280,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,ADP,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+281,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+282,ccomp,"OrderedDict([('Mood', 'Cnd'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+283,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,1,0,0,5,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+284,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+285,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+286,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+287,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+288,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,5,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+289,ccomp,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Imp')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+290,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+291,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+292,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+293,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+294,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+295,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+296,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Imp')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+297,acl,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+298,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+299,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+300,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'AM'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past')])",4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+301,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+302,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+303,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+304,ccomp,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+305,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+306,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+307,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+308,advcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,5,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+309,conj,"OrderedDict([('Mood', 'Cnd'), ('Person', '0'), ('Tense', 'Imp')])",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+310,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+311,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+312,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+313,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+314,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+315,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+316,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+317,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+318,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+319,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+320,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+321,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'AM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+322,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+323,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+324,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+325,conj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'AM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+326,conj,"OrderedDict([('Mood', 'Cnd'), ('Person', '0'), ('Tense', 'Imp')])",1,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+327,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+328,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,5,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+329,conj,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+330,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+331,conj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'AM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,1,0,5,0,0,5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+332,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",3,0,0,0,5,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+333,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,ADP,4,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+334,conj,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",1,1,1,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+335,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,ADP,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+336,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+337,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,1,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+338,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+339,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,1,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+340,advcl,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+341,csubj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+342,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+343,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,2,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+344,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+345,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Fut')])",1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+346,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+347,conj,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",4,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+348,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+349,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+350,root,"OrderedDict([('Mood', 'Sub'), ('Person', '0'), ('Tense', 'Imp')])",3,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+351,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+352,root,"OrderedDict([('Mood', 'Sub'), ('Person', '0'), ('Tense', 'Imp')])",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+353,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+354,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+355,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+356,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+357,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+358,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+359,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+360,conj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+361,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,0,1,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+362,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+363,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+364,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+365,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+366,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+367,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,5,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+368,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+369,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+370,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+371,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+372,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",5,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+373,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+374,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+375,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+376,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_Welsh-CCG
+377,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+378,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+379,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+380,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",3,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+381,conj,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",1,1,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+382,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+383,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+384,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+385,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+386,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+387,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,5,0,0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+388,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+389,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+390,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+391,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+392,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+393,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+394,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+395,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+396,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+397,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pqp')])",0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+398,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+399,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+400,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+401,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+402,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",4,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+403,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+404,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pqp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+405,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pqp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+406,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+407,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+408,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+409,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+410,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past')])",4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+411,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+412,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+413,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+414,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+415,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+416,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+417,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+418,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+419,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+420,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+421,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+422,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,1,0,0,5,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+423,root,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+424,conj,"OrderedDict([('Mood', 'Cnd'), ('Person', '0'), ('Tense', 'Imp')])",0,0,0,0,5,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+425,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",4,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+426,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Past')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+427,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,5,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+428,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+429,conj,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+430,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+431,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+432,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+433,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+434,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+435,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+436,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+437,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+438,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+439,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Past')])",3,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+440,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+441,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+442,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+443,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+444,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,0,0,0,5,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+445,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+446,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+447,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+448,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+449,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+450,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",0,0,1,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+451,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Fut')])",1,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+452,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+453,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+454,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+455,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Fut')])",1,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+456,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_Welsh-CCG
+457,csubj,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+458,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Fut')])",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+459,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+460,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+461,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+462,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+463,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+464,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+465,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+466,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Past')])",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+467,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+468,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+469,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+470,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,1,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+471,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+472,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,1,0,5,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+473,advcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+474,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+475,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+476,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+477,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'AM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,5,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+478,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",3,0,0,0,5,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,UD_Welsh-CCG
+479,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,5,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+480,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+481,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+482,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+483,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+484,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+485,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+486,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,5,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+487,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,0,0,0,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+488,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+489,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+490,appos,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+491,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+492,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,1,0,0,5,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+493,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,1,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+494,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+495,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,1,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+496,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+497,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+498,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",5,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+499,obj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+500,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,5,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_Welsh-CCG
+501,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+502,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+503,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+504,conj,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",1,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+505,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+506,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+507,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+508,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+509,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+510,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+511,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+512,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+513,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+514,advcl,"OrderedDict([('Mood', 'Sub'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,4,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+515,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",1,1,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+516,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+517,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+518,root,"OrderedDict([('Mood', 'Cnd'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+519,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,5,5,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+520,parataxis,"OrderedDict([('Mood', 'Cnd'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+521,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+522,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+523,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+524,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+525,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+526,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+527,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+528,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+529,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+530,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+531,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+532,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+533,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+534,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,NUM,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+535,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+536,root,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+537,root,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+538,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+539,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+540,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+541,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+542,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+543,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+544,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+545,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+546,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+547,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+548,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+549,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+550,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+551,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+552,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,4,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+553,parataxis,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_Welsh-CCG
+554,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+555,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+556,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,1,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+557,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+558,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+559,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+560,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Imp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+561,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,1,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+562,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+563,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+564,acl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Past')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+565,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+566,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+567,ccomp,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+568,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",5,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+569,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+570,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+571,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",5,1,1,0,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+572,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+573,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+574,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+575,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+576,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+577,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+578,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+579,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+580,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+581,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+582,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+583,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+584,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Past')])",0,0,0,5,ADP,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+585,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+586,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+587,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+588,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+589,conj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'AM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+590,acl,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+591,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+592,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+593,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",3,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+594,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+595,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",4,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+596,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+597,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",5,0,0,0,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+598,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+599,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+600,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+601,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+602,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+603,advcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+604,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+605,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+606,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+607,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+608,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+609,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+610,ccomp,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+611,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+612,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+613,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+614,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+615,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+616,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+617,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+618,root,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",5,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+619,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+620,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+621,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+622,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,3,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+623,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+624,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+625,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+626,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+627,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+628,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,5,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+629,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",4,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+630,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+631,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+632,ccomp,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+633,appos,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+634,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+635,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+636,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+637,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",1,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+638,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+639,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+640,acl:relcl,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+641,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+642,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+643,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+644,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+645,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",1,0,0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+646,conj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'AM'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+647,acl:relcl,"OrderedDict([('Mood', 'Cnd'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Imp')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+648,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+649,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+650,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+651,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+652,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+653,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+654,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Past')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+655,parataxis,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Imp')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+656,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+657,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Imp')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+658,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+659,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+660,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+661,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Past')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+662,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+663,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,UD_Welsh-CCG
+664,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",5,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+665,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+666,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+667,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",4,0,0,0,5,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+668,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+669,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",2,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+670,conj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",3,1,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+671,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+672,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+673,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+674,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+675,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+676,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+677,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+678,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+679,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+680,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+681,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+682,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+683,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+684,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+685,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+686,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+687,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+688,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+689,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+690,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+691,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+692,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+693,advcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+694,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+695,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+696,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+697,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+698,root,"OrderedDict([('Mood', 'Cnd'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+699,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+700,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Imp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+701,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+702,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+703,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+704,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,ADV,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+705,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+706,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+707,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+708,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+709,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+710,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+711,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+712,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+713,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+714,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+715,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+716,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+717,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+718,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+719,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+720,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+721,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+722,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+723,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+724,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+725,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+726,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+727,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+728,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+729,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+730,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+731,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+732,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+733,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+734,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+735,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+736,root,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,1,0,0,5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+737,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,5,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,UD_Welsh-CCG
+738,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+739,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+740,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+741,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+742,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+743,conj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+744,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '0'), ('Tense', 'Fut')])",1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+745,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+746,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+747,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+748,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+749,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+750,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+751,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+752,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+753,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+754,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+755,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+756,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+757,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pqp')])",0,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+758,parataxis,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+759,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+760,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+761,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+762,ccomp,"OrderedDict([('Mood', 'Cnd'), ('Person', '0'), ('Tense', 'Imp')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+763,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+764,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+765,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+766,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+767,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+768,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+769,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+770,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+771,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+772,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+773,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+774,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+775,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+776,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,5,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+777,root,"OrderedDict([('Gender', 'Masc'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '0'), ('Tense', 'Fut')])",1,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+778,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+779,ccomp,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Imp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+780,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+781,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+782,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+783,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+784,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Fut')])",5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+785,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Past')])",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+786,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,1,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+787,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+788,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+789,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+790,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,1,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+791,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+792,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+793,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+794,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+795,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+796,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,ADP,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+797,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+798,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,4,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+799,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+800,root,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+801,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+802,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+803,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+804,appos,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2')])",0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+805,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,1,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+806,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+807,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+808,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+809,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+810,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+811,advcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+812,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+813,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+814,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+815,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+816,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+817,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+818,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+819,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+820,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+821,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pqp')])",0,0,0,0,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+822,conj,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '1')])",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+823,acl,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+824,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+825,acl:relcl,"OrderedDict([('Mood', 'Cnd'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+826,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+827,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",5,1,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+828,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+829,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+830,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+831,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+832,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+833,conj,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '1')])",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+834,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+835,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,3,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+836,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+837,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+838,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+839,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+840,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+841,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+842,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+843,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+844,conj,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+845,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+846,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+847,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+848,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,5,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+849,advcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+850,root,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,5,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+851,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,1,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+852,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Past')])",1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+853,root,"OrderedDict([('Gender', 'Masc'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '0'), ('Tense', 'Fut')])",3,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+854,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,1,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+855,parataxis,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",5,1,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+856,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+857,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+858,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+859,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+860,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+861,acl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+862,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+863,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+864,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+865,acl:relcl,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '1')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+866,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+867,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+868,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+869,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+870,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+871,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+872,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,1,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+873,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+874,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+875,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,UD_Welsh-CCG
+876,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+877,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+878,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",5,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+879,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+880,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,UD_Welsh-CCG
+881,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Fut')])",0,0,1,0,5,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+882,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,UD_Welsh-CCG
+883,appos,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",3,1,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+884,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+885,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+886,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+887,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,0,0,0,5,1,0,5,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+888,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",4,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+889,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+890,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+891,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,0,0,0,5,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+892,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,5,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+893,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+894,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+895,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+896,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+897,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+898,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+899,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+900,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+901,acl:relcl,"OrderedDict([('Gender', 'Masc'), ('Mood', 'Ind'), ('Mutation', 'AM'), ('Number', 'Sing'), ('Person', '0'), ('Tense', 'Fut')])",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+902,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+903,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+904,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+905,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+906,advcl,"OrderedDict([('Mood', 'Sub'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+907,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Imp')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+908,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+909,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+910,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+911,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+912,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,UD_Welsh-CCG
+913,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '1')])",0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+914,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '1')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+915,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,0,5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+916,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+917,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+918,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+919,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+920,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+921,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+922,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+923,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+924,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+925,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+926,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+927,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+928,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+929,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+930,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,1,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+931,advcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+932,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+933,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+934,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+935,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+936,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+937,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+938,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+939,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,UD_Welsh-CCG
+940,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Fut')])",ADV,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+941,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+942,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+943,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+944,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+945,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+946,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+947,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+948,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2')])",0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+949,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+950,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+951,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '1')])",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+952,root,"OrderedDict([('Mood', 'Ind'), ('Person', '0'), ('Tense', 'Fut')])",5,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+953,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '1')])",0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+954,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+955,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,1,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+956,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+957,acl:relcl,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '1')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+958,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+959,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+960,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+961,advcl,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '1')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+962,root,"OrderedDict([('Mood', 'Imp'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1')])",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+963,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+964,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+965,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+966,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",0,1,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+967,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Past')])",5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+968,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,1,0,ADP,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+969,parataxis,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+970,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+971,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",5,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+972,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+973,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",3,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+974,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+975,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+976,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Person', '0'), ('Tense', 'Past')])",5,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+977,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,1,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+978,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+979,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+980,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+981,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+982,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+983,ccomp,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past')])",5,1,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+984,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+985,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,1,0,5,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+986,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+987,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+988,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,UD_Welsh-CCG
+989,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+990,nsubj,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '1')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+991,parataxis,"OrderedDict([('Mood', 'Imp'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '1')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+992,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Past')])",0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+993,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,4,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+994,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+995,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+996,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+997,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Imp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+998,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+999,acl:relcl,"OrderedDict([('Mood', 'Cnd'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1000,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1001,acl:relcl,"OrderedDict([('Mood', 'Cnd'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1002,acl:relcl,"OrderedDict([('Mood', 'Cnd'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1003,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1004,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2')])",0,0,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1005,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1006,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1007,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1008,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1009,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1010,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1011,ccomp,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Imp')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1012,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Relative', 'Rel'), ('Tense', 'Pres')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1013,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1014,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1015,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1016,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,1,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1017,advcl,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,0,0,0,0,3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1018,root,"OrderedDict([('Mood', 'Ind'), ('Mutation', 'SM'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1019,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1020,ccomp,"OrderedDict([('Mood', 'Cnd'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Imp')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1021,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1022,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut')])",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1023,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2')])",0,1,1,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1024,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1025,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1026,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1027,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1028,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1029,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1030,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1031,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1032,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1033,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Imp')])",0,0,0,0,5,4,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1034,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres')])",0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG
+1035,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Welsh-CCG

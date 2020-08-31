@@ -1,0 +1,58 @@
+,deprel,feats,nsubj_0,aux_0,parataxis_0,ccomp_0,obj_0,advmod_0,cc_0,conj_0,obl_0,obl_1,aux_1,aux:poss_0,iobj_0,advcl_0,acl:relcl_0,mark_0,advcl_1,xcomp_0,mark_1,csubj_0,advmod_1,conj_1,lang
+0,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+1,parataxis,"OrderedDict([('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+2,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres')])",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+3,root,"OrderedDict([('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+4,root,"OrderedDict([('VerbForm', 'Part')])",0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+5,conj,"OrderedDict([('Number', 'Plur'), ('Person', '3')])",0,1,0,0,0,1,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+6,root,"OrderedDict([('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Part')])",0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+7,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+8,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Part'), ('Voice', 'Pass')])",0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+9,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '1')])",0,1,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+10,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '1')])",0,1,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+11,root,"OrderedDict([('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+12,root,"OrderedDict([('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+13,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing')])",0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+14,conj,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+15,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3')])",0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+16,conj,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+17,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '2')])",0,0,0,0,4,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+18,advcl,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '2')])",SCONJ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_Assyrian-AS
+19,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3')])",5,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+20,acl:relcl,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3')])",1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+21,root,"OrderedDict([('Tense', 'Pres'), ('VerbForm', 'Part')])",0,1,0,0,0,0,0,1,5,0,0,0,0,1,0,1,0,0,0,0,0,0,UD_Assyrian-AS
+22,conj,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,1,0,0,0,0,1,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+23,advcl,"OrderedDict([('Tense', 'Pres'), ('VerbForm', 'Part')])",5,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,UD_Assyrian-AS
+24,root,"OrderedDict([('Mood', 'Imp')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+25,root,"OrderedDict([('Number', 'Sing'), ('Person', '1')])",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+26,root,"OrderedDict([('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+27,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres')])",0,0,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+28,root,"OrderedDict([('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,0,0,0,5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+29,root,,0,0,0,0,0,0,0,0,5,0,0,0,0,1,0,1,1,0,0,0,0,0,UD_Assyrian-AS
+30,advcl,,0,0,0,0,0,0,0,1,5,0,0,0,0,1,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+31,advcl,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+32,conj,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+33,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_Assyrian-AS
+34,xcomp,"OrderedDict([('Number', 'Plur'), ('Person', '1')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+35,conj,"OrderedDict([('Number', 'Plur'), ('Person', '1')])",0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+36,advcl,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3')])",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,UD_Assyrian-AS
+37,root,"OrderedDict([('Number', 'Plur')])",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,UD_Assyrian-AS
+38,xcomp,"OrderedDict([('Number', 'Plur')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_Assyrian-AS
+39,compound,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+40,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3')])",2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+41,conj,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3')])",0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+42,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres')])",0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+43,parataxis,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '1')])",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,UD_Assyrian-AS
+44,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past')])",5,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+45,acl,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Part')])",0,0,0,0,0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+46,root,,0,0,0,0,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,UD_Assyrian-AS
+47,conj,,0,0,0,0,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+48,conj,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_Assyrian-AS
+49,xcomp,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+50,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3')])",2,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+51,conj,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3')])",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+52,conj,,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+53,ccomp,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_Assyrian-AS
+54,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing')])",1,0,0,0,1,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+55,root,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3')])",2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS
+56,conj,"OrderedDict([('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3')])",0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Assyrian-AS

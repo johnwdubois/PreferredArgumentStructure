@@ -1,0 +1,400 @@
+,deprel,feats,nsubj_0,obl_0,obj_0,csubj_0,mark_0,xcomp_0,vocative_0,conj_0,conj_1,aux:neg_0,advmod_0,ccomp_0,advcl_0,cc_0,advmod_1,amod_0,nmod_0,obl_1,obl_2,advmod_2,case_0,appos_0,det_0,acl_0,advcl_1,cop_0,acl:relcl_0,aux_0,mark_1,parataxis_0,lang
+0,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+1,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+2,csubj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+3,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+4,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+5,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+6,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+7,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+8,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+9,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+10,root,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+11,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,3,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+12,root,"OrderedDict([('Connegative', 'Yes')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+13,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+14,root,"OrderedDict([('Connegative', 'Yes')])",1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+15,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+16,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+17,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+18,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+19,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+20,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+21,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+22,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+23,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+24,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+25,advcl,"OrderedDict([('Connegative', 'Yes')])",1,4,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+26,root,"OrderedDict([('Connegative', 'Yes')])",1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+27,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+28,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+29,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+30,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+31,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+32,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+33,acl,"OrderedDict([('Case', 'Nom'), ('Derivation', 'An'), ('Number', 'Sing'), ('PartForm', 'Pres'), ('VerbForm', 'Part')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+34,acl,"OrderedDict([('Case', 'Nom'), ('Derivation', 'An'), ('Number', 'Sing'), ('PartForm', 'Pres'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+35,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+36,csubj,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+37,acl,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+38,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,5,5,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+39,advcl,"OrderedDict([('Case', 'Ins'), ('Derivation', 'Omon'), ('VerbForm', 'Conv')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+40,obj,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+41,acl,"OrderedDict([('Case', 'Nom'), ('Derivation', 'An'), ('Number', 'Sing'), ('PartForm', 'Pres'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+42,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,5,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+43,advcl,"OrderedDict([('VerbForm', 'Inf')])",0,5,5,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+44,obj,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+45,conj,"OrderedDict([('VerbForm', 'Inf')])",0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+46,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+47,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+48,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,5,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+49,csubj,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+50,root,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+51,root,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+52,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+53,advcl,"OrderedDict([('Case', 'Ine'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+54,acl,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+55,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+56,acl,"OrderedDict([('Connegative', 'Yes')])",5,5,5,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+57,advcl,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+58,acl,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+59,root,"OrderedDict([('Connegative', 'Yes')])",5,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+60,obj,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+61,parataxis,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+62,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+63,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+64,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+65,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+66,root,"OrderedDict([('Connegative', 'Yes')])",0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+67,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+68,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+69,xcomp,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+70,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+71,xcomp,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+72,advcl,"OrderedDict([('Case', 'Gen'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+73,advcl,"OrderedDict([('Case', 'Ine'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+74,acl:relcl,"OrderedDict([('Connegative', 'Yes')])",5,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+75,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+76,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,5,3,0,0,0,0,0,0,0,1,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+77,root,"OrderedDict([('Connegative', 'Yes')])",5,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+78,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+79,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+80,root,"OrderedDict([('VerbForm', 'Inf')])",0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+81,acl,"OrderedDict([('Case', 'Ine'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+82,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+83,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,5,5,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+84,conj,"OrderedDict([('VerbForm', 'Inf')])",0,3,5,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+85,conj,"OrderedDict([('VerbForm', 'Inf')])",0,5,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+86,acl,"OrderedDict([('Case', 'Nom'), ('Derivation', 'An'), ('Number', 'Sing'), ('PartForm', 'Pres'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+87,acl,"OrderedDict([('Case', 'Nom'), ('Derivation', 'An'), ('Number', 'Sing'), ('PartForm', 'Pres'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+88,obl,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+89,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+90,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+91,obl,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+92,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+93,advcl,"OrderedDict([('Case', 'Ins'), ('Derivation', 'Ig'), ('Number', 'Sing'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+94,conj,"OrderedDict([('Case', 'Ins'), ('Derivation', 'Ig'), ('Number', 'Sing'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+95,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+96,acl:relcl,"OrderedDict([('Connegative', 'Yes')])",5,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+97,acl,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+98,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,ADJ,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+99,acl,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+100,root,"OrderedDict([('Connegative', 'Yes')])",4,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+101,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+102,advcl,"OrderedDict([('VerbForm', 'Inf')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+103,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+104,acl:relcl,"OrderedDict([('Connegative', 'Yes')])",4,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+105,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,0,5,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+106,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+107,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+108,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+109,ccomp,"OrderedDict([('Connegative', 'Yes')])",5,3,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+110,nsubj,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+111,conj,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+112,root,"OrderedDict([('Connegative', 'Yes')])",0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+113,csubj,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+114,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+115,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+116,advcl,"OrderedDict([('Case', 'Ins'), ('Derivation', 'Omon'), ('VerbForm', 'Conv')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+117,advcl,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_Komi_Zyrian-Lattice
+118,conj,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+119,acl,"OrderedDict([('Case', 'Nom'), ('Derivation', 'An'), ('Number', 'Sing'), ('PartForm', 'Pres'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+120,advcl,"OrderedDict([('VerbForm', 'Inf')])",0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+121,acl:relcl,"OrderedDict([('VerbForm', 'Inf')])",0,0,5,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+122,csubj,"OrderedDict([('Case', 'Ine'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+123,obj,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,UD_Komi_Zyrian-Lattice
+124,conj,"OrderedDict([('VerbForm', 'Inf')])",0,5,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+125,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,5,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+126,advcl,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+127,advcl,"OrderedDict([('Case', 'Ine'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+128,acl,"OrderedDict([('Case', 'Nom'), ('Derivation', 'An'), ('Number', 'Sing'), ('PartForm', 'Pres'), ('VerbForm', 'Part')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+129,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+130,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+131,advcl,"OrderedDict([('Connegative', 'Yes')])",0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+132,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+133,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+134,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+135,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+136,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,3,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+137,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+138,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+139,conj,"OrderedDict([('Connegative', 'Yes')])",4,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+140,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+141,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+142,root,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,5,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,UD_Komi_Zyrian-Lattice
+143,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+144,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+145,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+146,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+147,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+148,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+149,conj,"OrderedDict([('Connegative', 'Yes')])",0,0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+150,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+151,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+152,root,"OrderedDict([('Connegative', 'Yes')])",3,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+153,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+154,advcl,"OrderedDict([('Case', 'Car'), ('Derivation', 'Tog'), ('VerbForm', 'Conv')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+155,root,"OrderedDict([('Connegative', 'Yes')])",5,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+156,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+157,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+158,root,"OrderedDict([('Connegative', 'Yes')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+159,acl,"OrderedDict([('Case', 'Nom'), ('Derivation', 'Ysj'), ('Number', 'Sing'), ('PartForm', 'Pres'), ('VerbForm', 'Part'), ('Voice', 'Act')])",0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+160,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+161,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",4,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,UD_Komi_Zyrian-Lattice
+162,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,5,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,ADV,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+163,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+164,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+165,root,"OrderedDict([('Connegative', 'Yes')])",0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+166,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+167,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+168,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+169,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+170,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+171,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+172,acl,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+173,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+174,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+175,root,"OrderedDict([('Connegative', 'Yes')])",0,0,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+176,root,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+177,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+178,obl,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+179,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+180,ccomp,"OrderedDict([('Connegative', 'Yes')])",DET,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+181,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,5,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+182,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+183,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+184,csubj,"OrderedDict([('VerbForm', 'Inf')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+185,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,5,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+186,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+187,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,3,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+188,advcl,"OrderedDict([('Case', 'Car'), ('Derivation', 'Tog'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+189,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+190,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+191,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+192,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+193,advcl,"OrderedDict([('Derivation', 'Igmoz'), ('VerbForm', 'Conv')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+194,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,UD_Komi_Zyrian-Lattice
+195,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+196,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+197,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+198,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+199,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+200,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+201,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,ADV,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+202,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+203,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+204,csubj,"OrderedDict([('VerbForm', 'Inf')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+205,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+206,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+207,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+208,advcl,"OrderedDict([('Case', 'Ill'), ('Derivation', 'Ig'), ('Number', 'Sing'), ('Number[psor]', 'Sing'), ('Person[psor]', '3'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+209,root,"OrderedDict([('Connegative', 'Yes')])",0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+210,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+211,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,3,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+212,acl:relcl,"OrderedDict([('Connegative', 'Yes')])",1,5,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+213,root,"OrderedDict([('Connegative', 'Yes')])",3,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+214,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+215,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+216,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+217,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+218,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",ADJ-mod,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+219,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+220,root,"OrderedDict([('Connegative', 'Yes')])",0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+221,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+222,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+223,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+224,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+225,advcl,"OrderedDict([('Derivation', 'Tog'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+226,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+227,root,"OrderedDict([('VerbForm', 'Inf')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+228,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+229,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+230,root,"OrderedDict([('Connegative', 'Yes')])",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+231,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+232,advcl,"OrderedDict([('Case', 'Ill'), ('Derivation', 'Ig'), ('Number', 'Sing'), ('Number[psor]', 'Sing'), ('Person[psor]', '2'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+233,root,"OrderedDict([('Connegative', 'Yes'), ('Number', 'Sing')])",5,ADV,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+234,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,5,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+235,advcl,"OrderedDict([('Derivation', 'Tog'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+236,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,4,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+237,ccomp,"OrderedDict([('VerbForm', 'Inf')])",5,0,5,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+238,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,3,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+239,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+240,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+241,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+242,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+243,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+244,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+245,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+246,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+247,root,"OrderedDict([('Connegative', 'Yes')])",3,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+248,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+249,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+250,advcl,"OrderedDict([('Case', 'Ins'), ('Derivation', 'Omon'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+251,root,"OrderedDict([('Connegative', 'Yes')])",0,0,0,0,0,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,UD_Komi_Zyrian-Lattice
+252,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+253,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+254,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+255,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+256,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+257,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,5,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+258,obl,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+259,advcl,"OrderedDict([('Case', 'Nom'), ('Derivation', 'Omon'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+260,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+261,nmod,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+262,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+263,conj,"OrderedDict([('VerbForm', 'Inf')])",0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+264,root,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,3,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+265,root,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+266,conj,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+267,root,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,1,5,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+268,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+269,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+270,root,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,5,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+271,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",4,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+272,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+273,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+274,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+275,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+276,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,ADV,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+277,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+278,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+279,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,3,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+280,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+281,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+282,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",1,5,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+283,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+284,root,"OrderedDict([('VerbForm', 'Inf')])",0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+285,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+286,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+287,root,"OrderedDict([('Connegative', 'Yes')])",5,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+288,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,5,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+289,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+290,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+291,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+292,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+293,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",ADJ,ADP-mod,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+294,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+295,csubj,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+296,conj,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+297,conj,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+298,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",DET,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+299,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,5,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,UD_Komi_Zyrian-Lattice
+300,advcl,"OrderedDict([('Derivation', 'Tog'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+301,root,"OrderedDict([('Case', 'Nom'), ('Number', 'Plur'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+302,conj,"OrderedDict([('Case', 'Nom'), ('Number', 'Plur'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+303,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+304,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+305,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+306,root,"OrderedDict([('Connegative', 'Yes')])",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+307,csubj,"OrderedDict([('Number[psor]', 'Sing'), ('Person[psor]', '3'), ('Polarity', 'Neg'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+308,advcl,"OrderedDict([('Connegative', 'Yes')])",0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,UD_Komi_Zyrian-Lattice
+309,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+310,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_Komi_Zyrian-Lattice
+311,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+312,conj,"OrderedDict([('VerbForm', 'Inf')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+313,conj,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+314,ccomp,"OrderedDict([('Connegative', 'Yes')])",3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+315,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+316,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+317,conj,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+318,conj,"OrderedDict([('Connegative', 'Yes')])",5,5,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+319,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+320,advcl,"OrderedDict([('Case', 'Ins'), ('Derivation', 'Ig'), ('Number', 'Sing'), ('VerbForm', 'Conv')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+321,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+322,nmod,"OrderedDict([('Case', 'Nom'), ('Derivation', 'Ysj'), ('Number', 'Sing'), ('PartForm', 'Pres'), ('VerbForm', 'Part'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+323,discourse,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+324,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+325,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+326,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,5,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+327,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,3,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+328,acl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+329,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+330,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+331,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,5,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+332,advcl,"OrderedDict([('Derivation', 'Tog'), ('VerbForm', 'Conv')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+333,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,UD_Komi_Zyrian-Lattice
+334,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,3,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+335,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+336,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+337,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",SCONJ,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+338,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+339,root,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+340,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+341,acl,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+342,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+343,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+344,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,UD_Komi_Zyrian-Lattice
+345,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+346,root,"OrderedDict([('Connegative', 'Yes')])",0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+347,advcl,"OrderedDict([('Derivation', 'Igmoz'), ('Number[psor]', 'Sing'), ('Person[psor]', '3'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+348,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+349,root,"OrderedDict([('Connegative', 'Yes')])",1,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+350,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+351,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,3,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+352,advcl,"OrderedDict([('Derivation', 'Igdyrji'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+353,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,UD_Komi_Zyrian-Lattice
+354,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+355,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+356,conj,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+357,conj,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+358,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+359,root,"OrderedDict([('Connegative', 'Yes')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+360,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+361,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+362,advcl,"OrderedDict([('Case', 'Ins'), ('Derivation', 'Omon'), ('VerbForm', 'Conv')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+363,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+364,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+365,root,"OrderedDict([('VerbForm', 'Inf')])",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+366,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+367,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+368,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+369,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,3,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+370,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+371,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+372,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+373,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+374,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+375,acl,"OrderedDict([('Connegative', 'Yes')])",0,3,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+376,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+377,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+378,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+379,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+380,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+381,root,"OrderedDict([('VerbForm', 'Inf')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+382,root,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+383,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,UD_Komi_Zyrian-Lattice
+384,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+385,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+386,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+387,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+388,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,2,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+389,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+390,advcl,"OrderedDict([('Connegative', 'Yes')])",0,5,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+391,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+392,amod,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+393,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",DET,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+394,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",4,5,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+395,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+396,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+397,root,"OrderedDict([('Evident', 'Nfh'), ('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice
+398,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,UD_Komi_Zyrian-Lattice

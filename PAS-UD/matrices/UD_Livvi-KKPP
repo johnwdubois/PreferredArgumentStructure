@@ -1,0 +1,257 @@
+,deprel,feats,obl_0,nsubj_0,obj_0,obl_1,advmod_0,obl_2,conj_0,cc_0,ccomp_0,aux_0,advmod_1,obj_1,parataxis_0,nsubj_1,xcomp_0,conj_1,conj_2,advcl_0,amod_0,nmod_0,mark_0,advmod_2,fixed_0,acl:relcl_0,discourse_0,orphan_0,aux_1,vocative_0,xcomp:ds_0,aux:neg_0,lang
+0,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+1,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres'), ('Voice', 'Pass')])",3,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+2,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+3,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres'), ('Voice', 'Pass')])",4,0,5,2,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+4,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+5,ccomp,"OrderedDict([('Case', 'Ill'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+6,root,"OrderedDict([('VerbForm', 'Part')])",5,5,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+7,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+8,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,5,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+9,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,1,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+10,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+11,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+12,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+13,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+14,root,"OrderedDict([('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+15,root,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+16,advcl,"OrderedDict([('VerbForm', 'Ger')])",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+17,conj,"OrderedDict([('VerbForm', 'Ger')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+18,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,5,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+19,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+20,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+21,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+22,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+23,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+24,ccomp,"OrderedDict([('VerbForm', 'Inf')])",5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+25,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+26,ccomp,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+27,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+28,root,"OrderedDict([('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",5,5,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+29,conj,"OrderedDict([('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+30,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",2,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+31,root,"OrderedDict([('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Pass')])",5,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+32,nsubj,"OrderedDict([('Case', 'Acc'), ('Number', 'Plur'), ('Tense', 'Past'), ('VerbForm', 'Part'), ('Voice', 'Act')])",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+33,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+34,conj,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+35,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+36,obl,"OrderedDict([('Case', 'Ess'), ('Number', 'Sing'), ('Tense', 'Pres'), ('VerbForm', 'Part'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+37,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+38,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,0,5,5,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+39,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+40,ccomp,"OrderedDict([('VerbForm', 'Inf')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+41,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,5,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+42,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+43,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,5,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+44,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+45,nmod:poss,"OrderedDict([('Case', 'Gen'), ('Number', 'Plur'), ('Tense', 'Past'), ('VerbForm', 'Part'), ('Voice', 'Pass')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+46,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+47,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+48,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+49,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part'), ('Voice', 'Pass')])",2,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+50,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+51,amod,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part'), ('Voice', 'Pass')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+52,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+53,root,"OrderedDict([('VerbForm', 'Inf')])",5,3,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+54,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+55,csubj:cop,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+56,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,5,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+57,xcomp,"OrderedDict([('VerbForm', 'Inf')])",3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+58,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Pass')])",3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+59,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+60,advcl,"OrderedDict([('Case', 'Par'), ('Number', 'Plur'), ('VerbForm', 'Part'), ('Voice', 'Act')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+61,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,1,3,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+62,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+63,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+64,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Pass')])",2,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_Livvi-KKPP
+65,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Pass')])",3,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+66,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+67,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+68,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+69,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Part'), ('Voice', 'Act')])",5,5,0,5,0,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+70,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,5,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+71,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+72,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+73,advcl,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part'), ('Voice', 'Act')])",5,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+74,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+75,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+76,parataxis,"OrderedDict([('VerbForm', 'Inf')])",0,5,5,0,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+77,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",1,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+78,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Pass')])",0,0,5,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+79,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+80,ccomp,"OrderedDict([('Connegative', 'Yes'), ('Tense', 'Pres')])",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+81,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+82,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+83,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+84,advcl,"OrderedDict([('Case', 'Ill'), ('VerbForm', 'Inf')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+85,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+86,xcomp,"OrderedDict([('Case', 'Ill'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+87,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+88,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+89,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+90,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,3,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+91,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+92,conj,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+93,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+94,parataxis,"OrderedDict([('VerbForm', 'Inf')])",0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+95,xcomp,"OrderedDict([('Case', 'Ill'), ('VerbForm', 'Inf')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+96,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+97,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+98,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+99,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+100,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+101,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+102,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+103,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+104,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,5,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+105,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+106,advcl,"OrderedDict([('Case', 'Ill'), ('VerbForm', 'Inf')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+107,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+108,xcomp,"OrderedDict([('Case', 'Ill'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+109,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+110,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+111,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+112,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+113,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+114,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,3,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+115,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_Livvi-KKPP
+116,acl:relcl,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",1,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+117,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+118,parataxis,"OrderedDict([('VerbForm', 'Inf')])",0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+119,ccomp,"OrderedDict([('Case', 'Ill'), ('VerbForm', 'Inf')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+120,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+121,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+122,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+123,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,1,3,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+124,advcl,"OrderedDict([('Case', 'Par'), ('Degree', 'Pos'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part'), ('Voice', 'Pass')])",0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+125,parataxis,"OrderedDict([('Clitic', 'Go'), ('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+126,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+127,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,1,1,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+128,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+129,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+130,parataxis,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+131,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+132,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+133,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+134,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+135,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+136,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+137,parataxis,"OrderedDict([('Clitic', 'Go'), ('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+138,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+139,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+140,xcomp,"OrderedDict([('Case', 'Ill'), ('VerbForm', 'Inf')])",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+141,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+142,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+143,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+144,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+145,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,4,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+146,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+147,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+148,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+149,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_Livvi-KKPP
+150,acl:relcl,"OrderedDict([('Connegative', 'Yes')])",1,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+151,root,"OrderedDict([('Clitic', 'Go'), ('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+152,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+153,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+154,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,UD_Livvi-KKPP
+155,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+156,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+157,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+158,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+159,parataxis,"OrderedDict([('Clitic', 'Go'), ('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+160,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+161,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+162,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+163,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+164,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,UD_Livvi-KKPP
+165,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+166,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+167,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,4,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+168,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+169,root,"OrderedDict([('Clitic', 'Go'), ('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+170,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+171,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+172,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+173,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+174,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+175,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,3,5,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+176,conj,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,NUM,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+177,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+178,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,0,0,VERB,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+179,obl,"OrderedDict([('Case', 'Ill'), ('Number', 'Sing')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+180,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Pass')])",5,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+181,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+182,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,5,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+183,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+184,conj,"OrderedDict([('VerbForm', 'Ger')])",5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+185,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+186,advcl,"OrderedDict([('VerbForm', 'Ger')])",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+187,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+188,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+189,root,"OrderedDict([('VerbForm', 'Inf')])",5,0,3,3,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+190,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+191,xcomp,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+192,parataxis,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+193,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+194,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+195,root,"OrderedDict([('Mood', 'Pot'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+196,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,5,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+197,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+198,ccomp,"OrderedDict([('Case', 'Ill'), ('VerbForm', 'Inf')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+199,acl:relcl,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+200,root,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,3,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+201,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+202,ccomp,"OrderedDict([('VerbForm', 'Inf')])",0,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+203,xcomp:ds,"OrderedDict([('VerbForm', 'Inf')])",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+204,root,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+205,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_Livvi-KKPP
+206,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+207,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+208,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+209,xcomp,"OrderedDict([('Case', 'Ill'), ('VerbForm', 'Inf')])",0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+210,conj,"OrderedDict([('Case', 'Ill'), ('VerbForm', 'Inf')])",0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+211,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+212,conj,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+213,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+214,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+215,xcomp,"OrderedDict([('Case', 'Ill'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+216,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,3,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+217,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+218,advcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+219,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,0,0,5,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+220,advcl,"OrderedDict([('Case', 'Ine'), ('VerbForm', 'Ger'), ('Voice', 'Pass')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+221,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+222,xcomp,"OrderedDict([('Case', 'Ill'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+223,conj,"OrderedDict([('Case', 'Ill'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+224,root,"OrderedDict([('VerbForm', 'Inf')])",5,0,0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+225,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,5,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+226,advcl,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",4,1,5,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+227,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+228,root,"OrderedDict([('Case', 'Nom'), ('Number', 'Sing'), ('Tense', 'Past'), ('VerbForm', 'Part')])",3,4,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,UD_Livvi-KKPP
+229,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+230,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",3,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+231,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+232,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+233,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+234,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+235,root,"OrderedDict([('Clitic', 'Go'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+236,xcomp,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+237,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,UD_Livvi-KKPP
+238,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,UD_Livvi-KKPP
+239,xcomp:ds,"OrderedDict([('VerbForm', 'Inf')])",0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+240,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+241,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+242,root,"OrderedDict([('VerbForm', 'Inf')])",0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,UD_Livvi-KKPP
+243,acl:relcl,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+244,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+245,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+246,ccomp,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+247,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+248,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Reflex', 'Yes'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+249,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+250,root,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,UD_Livvi-KKPP
+251,xcomp,"OrderedDict([('Case', 'Ine'), ('VerbForm', 'Inf')])",0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+252,acl:relcl,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,5,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+253,root,"OrderedDict([('Connegative', 'Yes'), ('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+254,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP
+255,conj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin'), ('Voice', 'Act')])",0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Livvi-KKPP

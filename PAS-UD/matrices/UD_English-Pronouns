@@ -1,0 +1,256 @@
+,deprel,feats,nsubj_0,advmod_0,expl_0,xcomp_0,obj_0,iobj_0,ccomp_0,mark_0,obl_0,aux:pass_0,conj_0,parataxis_0,case_0,advcl_0,lang
+0,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+1,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+2,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+3,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+4,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+5,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,1,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+6,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,1,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+7,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,1,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+8,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,1,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+9,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,1,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+10,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",4,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+11,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",4,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+12,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",4,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+13,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",4,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+14,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",4,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+15,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+16,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+17,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+18,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+19,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+20,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+21,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+22,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+23,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+24,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+25,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+26,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+27,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+28,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+29,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+30,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,1,0,0,0,0,0,0,0,0,UD_English-Pronouns
+31,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,1,0,0,0,0,0,0,0,0,UD_English-Pronouns
+32,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,1,0,0,0,0,0,0,0,0,UD_English-Pronouns
+33,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,1,0,0,0,0,0,0,0,0,UD_English-Pronouns
+34,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,1,0,0,0,0,0,0,0,0,UD_English-Pronouns
+35,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+36,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+37,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+38,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+39,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+40,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+41,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+42,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+43,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+44,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+45,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+46,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+47,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+48,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+49,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+50,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+51,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+52,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+53,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+54,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+55,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+56,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+57,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+58,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+59,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+60,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+61,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+62,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+63,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+64,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+65,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+66,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+67,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+68,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+69,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+70,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+71,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+72,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+73,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+74,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+75,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+76,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+77,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+78,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+79,ccomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,1,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+80,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+81,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+82,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+83,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+84,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+85,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+86,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+87,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+88,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+89,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+90,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+91,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+92,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+93,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+94,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+95,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+96,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+97,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+98,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+99,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+100,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+101,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+102,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+103,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+104,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+105,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+106,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+107,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+108,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+109,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",5,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+110,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+111,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+112,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+113,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+114,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+115,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+116,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+117,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+118,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+119,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+120,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",1,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+121,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",1,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+122,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",1,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+123,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",1,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+124,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",1,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+125,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+126,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+127,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+128,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+129,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+130,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+131,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+132,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+133,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+134,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+135,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+136,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+137,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+138,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+139,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+140,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+141,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+142,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+143,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+144,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+145,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+146,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+147,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+148,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+149,root,"OrderedDict([('Tense', 'Past'), ('VerbForm', 'Part')])",5,0,0,0,0,0,0,0,0,1,0,0,0,0,UD_English-Pronouns
+150,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,0,0,UD_English-Pronouns
+151,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,0,0,UD_English-Pronouns
+152,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,0,0,UD_English-Pronouns
+153,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,0,0,UD_English-Pronouns
+154,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,0,0,UD_English-Pronouns
+155,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,1,0,0,0,UD_English-Pronouns
+156,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+157,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,1,0,0,0,UD_English-Pronouns
+158,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+159,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,1,0,0,0,UD_English-Pronouns
+160,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+161,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,1,0,0,0,UD_English-Pronouns
+162,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+163,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,1,0,0,0,UD_English-Pronouns
+164,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+165,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,1,0,0,0,UD_English-Pronouns
+166,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+167,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,1,0,0,0,UD_English-Pronouns
+168,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+169,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,1,0,0,0,UD_English-Pronouns
+170,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+171,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,1,0,0,0,UD_English-Pronouns
+172,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+173,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,0,0,1,0,0,0,0,0,0,1,0,0,0,UD_English-Pronouns
+174,xcomp,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Inf')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+175,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,0,0,0,1,0,0,UD_English-Pronouns
+176,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,0,0,0,1,0,0,UD_English-Pronouns
+177,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,0,0,0,1,0,0,UD_English-Pronouns
+178,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,0,0,0,1,0,0,UD_English-Pronouns
+179,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,4,0,0,0,0,0,0,1,0,0,UD_English-Pronouns
+180,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+181,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+182,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+183,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+184,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,5,0,0,0,5,0,0,0,0,0,UD_English-Pronouns
+185,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+186,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+187,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+188,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+189,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+190,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,0,1,UD_English-Pronouns
+191,advcl,"OrderedDict([('VerbForm', 'Ger')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+192,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,0,1,UD_English-Pronouns
+193,advcl,"OrderedDict([('VerbForm', 'Ger')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+194,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,0,1,UD_English-Pronouns
+195,advcl,"OrderedDict([('VerbForm', 'Ger')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+196,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,0,1,UD_English-Pronouns
+197,advcl,"OrderedDict([('VerbForm', 'Ger')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+198,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,0,1,UD_English-Pronouns
+199,advcl,"OrderedDict([('VerbForm', 'Ger')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+200,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+201,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+202,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+203,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+204,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+205,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+206,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+207,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+208,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+209,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+210,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+211,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+212,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+213,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+214,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+215,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+216,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+217,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+218,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+219,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+220,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+221,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+222,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+223,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+224,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,0,0,1,0,0,0,1,0,UD_English-Pronouns
+225,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+226,ccomp,"OrderedDict([('Mood', 'Sub'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,1,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+227,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+228,ccomp,"OrderedDict([('Mood', 'Sub'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,1,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+229,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+230,ccomp,"OrderedDict([('Mood', 'Sub'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,1,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+231,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+232,ccomp,"OrderedDict([('Mood', 'Sub'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,1,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+233,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",4,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_English-Pronouns
+234,ccomp,"OrderedDict([('Mood', 'Sub'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,1,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+235,root,"OrderedDict([('Mood', 'Imp'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+236,root,"OrderedDict([('Mood', 'Imp'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+237,root,"OrderedDict([('Mood', 'Imp'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+238,root,"OrderedDict([('Mood', 'Imp'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+239,root,"OrderedDict([('Mood', 'Imp'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+240,csubj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+241,csubj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+242,csubj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+243,csubj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+244,csubj,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_English-Pronouns
+245,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+246,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+247,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+248,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+249,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+250,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+251,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+252,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+253,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns
+254,root,"OrderedDict([('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_English-Pronouns

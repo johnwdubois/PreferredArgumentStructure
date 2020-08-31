@@ -1,0 +1,704 @@
+,deprel,feats,compound:lvc_0,obl_0,advmod_0,nsubj_0,obj_0,cc_0,compound:svc_0,advcl_0,parataxis_0,obl_1,iobj_0,conj_0,aux_0,ccomp_0,nmod:poss_0,mark_0,nsubj:pass_0,aux:pass_0,case_0,vocative_0,discourse_0,csubj_0,advmod_1,advmod_2,cop_0,nsubj_1,xcomp_0,amod_0,nmod_0,conj_1,advcl_1,conj_2,det_0,discourse_1,acl_0,obl_2,advcl_2,aux_1,vocative_1,fixed_0,lang
+0,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+1,root,"OrderedDict([('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,5,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+2,root,"OrderedDict([('Aspect', 'Imp'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+3,conj,"OrderedDict([('Aspect', 'Imp'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+4,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+5,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,3,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+6,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+7,ccomp,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+8,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+9,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",1,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+10,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+11,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+12,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,2,0,0,0,0,0,ADV,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+13,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+14,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+15,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+16,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+17,root,"OrderedDict([('Aspect', 'Perf'), ('Number', 'Plur'), ('Person', '1'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+18,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+19,root,"OrderedDict([('Aspect', 'Perf'), ('Number', 'Plur'), ('Person', '1'), ('VerbForm', 'Fin')])",1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+20,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+21,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,5,0,5,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+22,root,"OrderedDict([('Aspect', 'Imp'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+23,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+24,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,2,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+25,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+26,ccomp,"OrderedDict([('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,3,3,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+27,root,"OrderedDict([('Case', 'Loc'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+28,conj,"OrderedDict([('Case', 'Loc'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+29,root,"OrderedDict([('Case', 'Loc'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",1,5,1,0,0,0,0,0,0,0,0,0,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+30,aux:pass,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+31,root,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,5,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+32,root,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+33,advcl,"OrderedDict([('Case', 'Obl'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+34,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",1,0,0,2,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+35,root,"OrderedDict([('Number', 'Plur'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,5,0,1,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+36,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,0,0,0,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+37,ccomp,"OrderedDict([('Mood', 'Imp'), ('Person', '2'), ('Polarity', 'Neg'), ('VerbForm', 'Fin')])",0,4,0,0,0,0,0,0,0,5,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+38,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+39,advcl,"OrderedDict([('Case', 'Obl'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+40,compound:svc,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+41,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+42,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+43,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+44,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+45,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,0,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+46,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+47,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,3,0,5,0,0,0,0,0,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+48,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+49,ccomp,"OrderedDict([('Case', 'Loc'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+50,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,4,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+51,conj,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,1,0,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+52,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+53,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+54,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+55,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+56,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+57,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,5,0,3,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+58,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+59,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+60,parataxis,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+61,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+62,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+63,parataxis,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+64,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+65,csubj,"OrderedDict([('Case', 'Nom'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+66,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+67,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+68,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+69,root,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,0,1,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+70,root,"OrderedDict([('Gender', 'Neut'), ('Mood', 'Sub'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+71,aux,"OrderedDict([('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+72,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+73,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+74,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+75,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+76,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+77,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,ADV,0,3,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+78,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+79,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,ADV,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+80,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+81,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+82,parataxis,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+83,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+84,conj,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+85,parataxis,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+86,root,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+87,root,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+88,advcl,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+89,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+90,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+91,parataxis,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+92,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+93,root,"OrderedDict([('Gender', 'Neut'), ('Mood', 'Des'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Part')])",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+94,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+95,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,2,0,0,0,0,0,ADV,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+96,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+97,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+98,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+99,root,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+100,advcl,"OrderedDict([('Aspect', 'Perf'), ('Case', 'Obl'), ('VerbForm', 'Fin')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+101,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+102,root,"OrderedDict([('Aspect', 'Hab'), ('Gender', 'Masc'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+103,advcl,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+104,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+105,advcl,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+106,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+107,acl:relcl,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+108,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+109,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+110,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+111,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",1,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+112,nsubj,"OrderedDict([('Case', 'Nom'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+113,acl:relcl,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+114,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",1,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+115,root,"OrderedDict([('Case', 'Loc'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,3,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+116,aux,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+117,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+118,xcomp,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+119,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",1,3,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+120,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+121,advcl,"OrderedDict([('Case', 'Obl'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+122,root,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+123,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,5,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+124,parataxis,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+125,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+126,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+127,advcl,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+128,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part'), ('Voice', 'Cau')])",0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+129,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+130,ccomp,"OrderedDict([('VerbForm', 'Sup')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+131,conj,"OrderedDict([('Aspect', 'Hab'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",1,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+132,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+133,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+134,ccomp,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+135,compound:svc,"OrderedDict([('Gender', 'Neut'), ('Mood', 'Sub'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+136,root,"OrderedDict([('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,ADV,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+137,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+138,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+139,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,4,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+140,root,"OrderedDict([('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+141,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('Polarity', 'Neg'), ('VerbForm', 'Fin')])",0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+142,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+143,advcl,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+144,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+145,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+146,xcomp,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+147,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+148,compound:svc,"OrderedDict([('Case', 'Nom'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+149,root,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,0,0,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+150,conj,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+151,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,1,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+152,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,3,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+153,parataxis,"OrderedDict([('Aspect', 'Imp'), ('Case', 'Loc'), ('VerbForm', 'Part')])",0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+154,compound:svc,"OrderedDict([('Mood', 'Imp'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+155,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,ADV,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+156,advcl,"OrderedDict([('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+157,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+158,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+159,xcomp,"OrderedDict([('VerbForm', 'Sup')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+160,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+161,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+162,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+163,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+164,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+165,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+166,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+167,conj,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+168,conj,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+169,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+170,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+171,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+172,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+173,root,"OrderedDict([('Aspect', 'Hab'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+174,advcl,"OrderedDict([('Aspect', 'Perf'), ('Case', 'Obl'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+175,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+176,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+177,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,1,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+178,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+179,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+180,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+181,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+182,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+183,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,5,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+184,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+185,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+186,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+187,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+188,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+189,conj,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+190,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,5,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+191,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+192,root,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,0,0,1,4,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+193,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+194,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+195,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,1,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+196,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+197,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+198,ccomp,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,1,4,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+199,advcl,"OrderedDict([('Aspect', 'Perf'), ('Case', 'Obl'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+200,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+201,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+202,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+203,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+204,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+205,root,"OrderedDict([('Aspect', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+206,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+207,xcomp,"OrderedDict([('Person', '1'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+208,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('Polarity', 'Neg'), ('VerbForm', 'Fin')])",0,0,0,0,INTJ,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+209,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+210,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+211,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+212,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+213,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+214,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+215,acl,"OrderedDict([('Aspect', 'Hab'), ('Case', 'Obl'), ('VerbForm', 'Part')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+216,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+217,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+218,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+219,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+220,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,4,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+221,root,"OrderedDict([('Gender', 'Masc'), ('Mood', 'Sub'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+222,ccomp,"OrderedDict([('Gender', 'Fem'), ('Mood', 'Des'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Part')])",0,0,1,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+223,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+224,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,5,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+225,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+226,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+227,conj,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+228,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",1,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+229,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+230,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,5,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+231,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+232,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+233,acl:relcl,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Part')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+234,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+235,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+236,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+237,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+238,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",1,0,0,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+239,conj,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+240,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+241,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+242,ccomp,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+243,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+244,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+245,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+246,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,0,1,5,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+247,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+248,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+249,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+250,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+251,advcl,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+252,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+253,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+254,xcomp,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+255,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('Polarity', 'Neg'), ('VerbForm', 'Fin')])",0,0,0,0,INTJ,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+256,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+257,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+258,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+259,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+260,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+261,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+262,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+263,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+264,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+265,root,"OrderedDict([('Gender', 'Fem'), ('Mood', 'Des'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Part')])",0,0,0,5,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+266,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+267,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+268,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+269,parataxis,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+270,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",1,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+271,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+272,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,1,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+273,conj,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",1,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+274,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+275,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+276,advcl,"OrderedDict([('Case', 'Obl'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+277,advcl,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+278,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+279,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+280,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+281,root,"OrderedDict([('Gender', 'Neut'), ('Mood', 'Sub'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+282,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",1,0,0,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+283,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+284,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+285,aux:pass,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+286,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+287,root,"OrderedDict([('Case', 'Loc'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+288,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+289,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+290,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,4,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+291,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+292,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+293,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+294,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+295,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+296,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+297,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+298,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+299,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,1,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+300,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+301,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,1,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+302,compound:svc,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+303,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+304,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+305,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+306,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+307,parataxis,"OrderedDict([('Aspect', 'Hab'), ('Gender', 'Masc'), ('Number', 'Sing'), ('VerbForm', 'Part')])",0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+308,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '1'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+309,advcl,"OrderedDict([('VerbForm', 'Sup')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+310,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+311,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+312,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+313,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+314,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+315,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,0,1,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+316,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+317,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+318,root,"OrderedDict([('VerbForm', 'Sup')])",0,5,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+319,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+320,compound:svc,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+321,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+322,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+323,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+324,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+325,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+326,root,"OrderedDict([('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+327,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",1,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+328,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+329,root,"OrderedDict([('Case', 'Nom'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,3,0,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+330,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+331,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+332,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+333,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+334,parataxis,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+335,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+336,xcomp,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+337,root,"OrderedDict([('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+338,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+339,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+340,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,5,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+341,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+342,parataxis,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+343,xcomp,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+344,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+345,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+346,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,0,3,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+347,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+348,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+349,root,"OrderedDict([('Gender', 'Neut'), ('Mood', 'Sub'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+350,parataxis,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,1,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+351,conj,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,5,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+352,conj,"OrderedDict([('Mood', 'Imp'), ('Person', '2'), ('VerbForm', 'Fin')])",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+353,conj,"OrderedDict([('Case', 'Loc'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+354,compound:svc,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+355,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+356,advcl,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+357,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+358,advcl,"OrderedDict([('Case', 'Loc'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+359,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+360,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+361,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+362,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+363,parataxis,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+364,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+365,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+366,parataxis,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+367,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+368,compound:svc,"OrderedDict([('Mood', 'Imp'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+369,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+370,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+371,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+372,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+373,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,1,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+374,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+375,obl,"OrderedDict([('Aspect', 'Perf'), ('Case', 'Obl'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+376,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+377,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+378,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+379,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+380,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,3,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+381,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+382,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+383,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,5,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+384,conj,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+385,conj,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,VERB-mod,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+386,obj,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UD_Marathi-UFAL
+387,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,3,5,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+388,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+389,acl,"OrderedDict([('Aspect', 'Hab'), ('Gender', 'Neut'), ('Number', 'Plur'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+390,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,ADV,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+391,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+392,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+393,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+394,xcomp,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,1,0,3,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+395,parataxis,"OrderedDict([('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+396,conj,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+397,conj,"OrderedDict([('Number', 'Sing'), ('Person', '1'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+398,compound:svc,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+399,acl:relcl,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Part')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+400,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+401,advcl,"OrderedDict([('Case', 'Loc'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+402,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+403,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+404,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,4,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+405,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+406,parataxis,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+407,root,"OrderedDict([('Mood', 'Imp'), ('Person', '2'), ('Polarity', 'Neg'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+408,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+409,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+410,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+411,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+412,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+413,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+414,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+415,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",1,0,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+416,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,UD_Marathi-UFAL
+417,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+418,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+419,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+420,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '1'), ('VerbForm', 'Fin')])",0,5,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+421,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '1'), ('VerbForm', 'Fin')])",1,3,1,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+422,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '1'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+423,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+424,parataxis,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '1'), ('VerbForm', 'Fin')])",1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+425,xcomp,"OrderedDict([('Number', 'Plur'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+426,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+427,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+428,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+429,acl:relcl,"OrderedDict([('Aspect', 'Hab'), ('Case', 'Obl'), ('VerbForm', 'Part')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+430,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+431,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+432,parataxis,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+433,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+434,compound:svc,"OrderedDict([('VerbForm', 'Sup')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+435,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+436,cop,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+437,root,"OrderedDict([('Gender', 'Neut'), ('Mood', 'Sub'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+438,ccomp,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+439,compound:svc,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+440,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+441,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+442,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+443,root,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+444,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+445,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,5,0,0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+446,advcl,"OrderedDict([('Aspect', 'Perf'), ('Case', 'Obl'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+447,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '1'), ('VerbForm', 'Fin')])",0,4,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+448,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+449,advcl,"OrderedDict([('Case', 'Loc'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+450,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+451,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+452,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+453,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+454,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+455,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('Polarity', 'Neg'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+456,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,5,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+457,conj,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+458,acl,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+459,root,"OrderedDict([('Aspect', 'Prosp'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+460,conj,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+461,compound:svc,"OrderedDict([('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+462,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+463,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+464,ccomp,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+465,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+466,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,4,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+467,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,5,0,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+468,ccomp,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+469,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,5,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+470,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+471,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+472,advcl,"OrderedDict([('Case', 'Loc'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+473,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+474,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+475,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+476,advcl,"OrderedDict([('Case', 'Loc'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+477,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",1,5,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+478,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+479,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+480,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+481,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,3,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+482,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+483,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,5,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+484,advcl,"OrderedDict([('VerbForm', 'Sup')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+485,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+486,root,"OrderedDict([('Number', 'Sing'), ('Person', '3'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,5,0,4,0,0,0,1,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+487,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+488,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+489,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+490,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+491,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+492,conj,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+493,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+494,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",1,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+495,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+496,parataxis,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+497,conj,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+498,ccomp,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,3,0,5,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+499,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+500,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+501,compound:svc,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+502,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,ADJ,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+503,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,UD_Marathi-UFAL
+504,acl,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Part')])",0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+505,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,5,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+506,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+507,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+508,parataxis,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",1,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+509,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+510,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '1'), ('VerbForm', 'Fin')])",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+511,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+512,acl,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+513,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+514,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+515,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+516,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,3,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+517,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+518,parataxis,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+519,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+520,advcl,"OrderedDict([('Case', 'Loc'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+521,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+522,conj,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '1'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+523,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+524,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+525,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+526,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+527,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+528,parataxis,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+529,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+530,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+531,root,"OrderedDict([('Aspect', 'Perf'), ('Number', 'Plur'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+532,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+533,advcl,"OrderedDict([('Case', 'Obl'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+534,root,"OrderedDict([('Gender', 'Neut'), ('Mood', 'Sub'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+535,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '1'), ('VerbForm', 'Fin')])",0,5,0,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+536,root,"OrderedDict([('Aspect', 'Imp'), ('Number', 'Plur'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+537,advcl,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+538,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+539,conj,"OrderedDict([('Number', 'Plur'), ('Person', '2'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,0,ADJ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+540,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,4,3,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+541,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+542,conj,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,5,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+543,advcl,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+544,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+545,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+546,parataxis,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+547,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '2'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+548,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+549,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+550,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+551,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '1'), ('VerbForm', 'Fin')])",0,0,0,1,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+552,advcl,"OrderedDict([('Case', 'Obl'), ('InfForm', 'Dict'), ('VerbForm', 'Inf')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+553,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,4,3,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+554,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+555,conj,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+556,advcl,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+557,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+558,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,1,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+559,parataxis,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+560,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+561,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",1,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+562,root,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,5,0,1,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+563,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,ADJ,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+564,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+565,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '1'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+566,advcl,"OrderedDict([('VerbForm', 'Sup')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+567,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+568,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+569,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+570,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,3,0,0,0,0,1,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,0,0,0,UD_Marathi-UFAL
+571,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+572,advcl,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+573,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+574,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+575,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+576,advcl,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+577,parataxis,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,5,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+578,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+579,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,4,0,1,0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+580,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,3,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+581,advcl,"OrderedDict([('Aspect', 'Perf'), ('Case', 'Obl'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+582,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,3,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+583,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+584,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,UD_Marathi-UFAL
+585,advcl,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+586,advcl,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+587,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+588,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+589,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+590,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+591,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,ADJ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+592,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+593,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+594,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin'), ('Voice', 'Cau')])",0,5,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+595,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+596,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+597,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,5,0,5,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+598,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+599,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+600,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,3,1,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+601,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+602,root,"OrderedDict([('Mood', 'Imp'), ('VerbForm', 'Fin')])",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+603,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+604,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+605,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+606,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+607,xcomp,"OrderedDict([('VerbForm', 'Sup')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+608,conj,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+609,conj,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+610,conj,"OrderedDict([('Aspect', 'Imp'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+611,ccomp,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Conv')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+612,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,5,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+613,conj,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,5,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+614,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+615,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,UD_Marathi-UFAL
+616,conj,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+617,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+618,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,5,0,2,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+619,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+620,advcl,"OrderedDict([('Aspect', 'Perf'), ('Case', 'Obl'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+621,csubj,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+622,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+623,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+624,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+625,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,1,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,UD_Marathi-UFAL
+626,aux,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+627,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,5,0,3,4,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+628,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,3,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+629,advcl,"OrderedDict([('Aspect', 'Perf'), ('Case', 'Obl'), ('VerbForm', 'Fin')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+630,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,5,0,2,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+631,conj,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+632,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+633,dislocated,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+634,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+635,parataxis,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+636,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,UD_Marathi-UFAL
+637,aux,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+638,parataxis,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+639,conj,"OrderedDict([('Gender', 'Fem'), ('Mood', 'Des'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Part')])",0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,UD_Marathi-UFAL
+640,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+641,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+642,xcomp,"OrderedDict([('Gender', 'Masc'), ('Mood', 'Des'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Part')])",0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+643,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,5,0,1,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+644,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+645,conj,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,1,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+646,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,1,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,UD_Marathi-UFAL
+647,fixed,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+648,conj,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,5,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+649,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,1,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+650,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,UD_Marathi-UFAL
+651,fixed,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+652,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,1,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+653,conj,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,1,0,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+654,advcl,"OrderedDict([('Aspect', 'Perf'), ('Case', 'Obl'), ('VerbForm', 'Fin')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+655,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+656,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+657,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+658,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,1,1,5,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+659,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+660,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '1'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+661,conj,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+662,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('Polarity', 'Neg'), ('VerbForm', 'Fin')])",0,0,0,0,3,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+663,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+664,root,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+665,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,4,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+666,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Plur'), ('Person', '2'), ('Polarity', 'Neg'), ('VerbForm', 'Fin')])",0,0,0,0,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+667,conj,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+668,acl,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+669,advcl,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+670,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '1'), ('VerbForm', 'Fin')])",0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+671,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+672,root,"OrderedDict([('InfForm', 'Incp'), ('VerbForm', 'Inf')])",0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+673,root,"OrderedDict([('Aspect', 'Imp'), ('Gender', 'Fem'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+674,root,"OrderedDict([('Aspect', 'Imp'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+675,conj,"OrderedDict([('Aspect', 'Imp'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+676,conj,"OrderedDict([('Aspect', 'Imp'), ('Number', 'Plur'), ('Person', '3'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+677,root,"OrderedDict([('Mood', 'Imp'), ('Person', '2'), ('Polarity', 'Neg'), ('VerbForm', 'Fin')])",0,0,0,0,5,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+678,parataxis,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+679,root,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+680,root,"OrderedDict([('Gender', 'Fem'), ('Mood', 'Des'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Part')])",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+681,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+682,root,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+683,advcl,"OrderedDict([('Aspect', 'Perf'), ('Case', 'Obl'), ('VerbForm', 'Fin')])",0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+684,root,"OrderedDict([('Aspect', 'Prosp'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+685,advcl,"OrderedDict([('Aspect', 'Perf'), ('Case', 'Obl'), ('VerbForm', 'Fin')])",0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+686,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+687,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,5,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+688,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Part')])",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+689,root,"OrderedDict([('Mood', 'Imp'), ('Number', 'Sing'), ('Person', '2'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+690,ccomp,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+691,conj,"OrderedDict([('Aspect', 'Imp'), ('VerbForm', 'Part')])",0,0,1,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+692,xcomp,"OrderedDict([('VerbForm', 'Sup')])",0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+693,acl,"OrderedDict([('Number', 'Sing'), ('Person', '2'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+694,root,"OrderedDict([('Number', 'Sing'), ('Person', '2'), ('Tense', 'Fut'), ('VerbForm', 'Fin')])",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+695,root,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+696,advcl,"OrderedDict([('Aspect', 'Perf'), ('VerbForm', 'Conv')])",0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+697,compound:svc,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+698,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Masc'), ('Number', 'Sing'), ('Person', '3'), ('VerbForm', 'Fin')])",0,5,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+699,nsubj,"OrderedDict([('Gender', 'Neut'), ('Mood', 'Sub'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+700,root,"OrderedDict([('Aspect', 'Perf'), ('Gender', 'Neut'), ('Number', 'Plur'), ('Person', '3'), ('VerbForm', 'Fin')])",0,0,0,5,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+701,root,"OrderedDict([('Aspect', 'Hab'), ('Gender', 'Fem'), ('Mood', 'Ind'), ('Number', 'Sing'), ('Person', '3'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL
+702,advcl,"OrderedDict([('Aspect', 'Imp'), ('Case', 'Loc'), ('VerbForm', 'Part')])",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UD_Marathi-UFAL

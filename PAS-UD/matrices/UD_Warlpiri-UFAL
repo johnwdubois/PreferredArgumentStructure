@@ -1,0 +1,70 @@
+,deprel,feats,nsubj_0,obj_0,aux_0,obl_0,obl_1,obl:tmod_0,advcl_0,xcomp_0,advmod_0,iobj_0,obj_1,iobj_1,lang
+0,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,3,0,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+1,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,3,0,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+2,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,3,0,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+3,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Past'), ('VerbForm', 'Fin')])",3,3,0,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+4,root,"OrderedDict([('Tense', 'Pres')])",5,3,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+5,root,"OrderedDict([('Tense', 'Pres')])",3,5,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+6,root,"OrderedDict([('Tense', 'Pres')])",5,3,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+7,root,"OrderedDict([('Tense', 'Pres')])",3,0,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+8,root,"OrderedDict([('Tense', 'Pres')])",5,3,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+9,root,"OrderedDict([('Tense', 'Pres')])",3,5,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+10,root,"OrderedDict([('Tense', 'Pres')])",0,3,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+11,root,"OrderedDict([('Tense', 'Pres')])",1,3,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+12,root,"OrderedDict([('Tense', 'Pres')])",3,0,1,3,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+13,root,"OrderedDict([('Tense', 'Pres')])",3,0,1,3,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+14,root,"OrderedDict([('Tense', 'Pres')])",3,0,1,3,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+15,root,"OrderedDict([('Tense', 'Pres')])",0,5,0,3,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+16,root,"OrderedDict([('Tense', 'Pres')])",3,0,1,3,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+17,root,"OrderedDict([('Tense', 'Pres')])",3,0,1,5,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+18,root,"OrderedDict([('Tense', 'Pres')])",3,0,1,3,3,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+19,root,"OrderedDict([('Tense', 'Pres')])",1,3,1,3,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+20,root,"OrderedDict([('Tense', 'Pres')])",5,3,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+21,root,"OrderedDict([('Tense', 'Pres')])",5,0,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+22,root,"OrderedDict([('Tense', 'Pres')])",5,0,1,3,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+23,root,"OrderedDict([('Tense', 'Pres')])",2,3,1,3,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+24,root,"OrderedDict([('Tense', 'Pres')])",3,0,1,0,0,3,0,0,0,0,0,0,UD_Warlpiri-UFAL
+25,root,"OrderedDict([('Tense', 'Pres')])",1,1,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+26,root,"OrderedDict([('Tense', 'Pres')])",1,0,1,1,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+27,root,"OrderedDict([('Tense', 'Pres')])",1,0,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+28,root,"OrderedDict([('Tense', 'Pres')])",1,0,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+29,root,"OrderedDict([('Tense', 'Pres')])",1,3,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+30,root,"OrderedDict([('Tense', 'Pres')])",3,1,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+31,root,"OrderedDict([('Tense', 'Pres')])",1,1,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+32,root,"OrderedDict([('Tense', 'Pres')])",1,1,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+33,root,"OrderedDict([('Tense', 'Past')])",1,3,0,0,0,0,1,0,0,0,0,0,UD_Warlpiri-UFAL
+34,advcl,"OrderedDict([('VerbForm', 'Inf')])",0,3,0,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+35,root,"OrderedDict([('Tense', 'Past')])",1,3,0,0,0,0,0,1,0,0,0,0,UD_Warlpiri-UFAL
+36,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,3,0,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+37,root,"OrderedDict([('Tense', 'Pres')])",1,1,1,0,0,0,1,0,0,0,0,0,UD_Warlpiri-UFAL
+38,advcl,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,1,0,0,0,UD_Warlpiri-UFAL
+39,root,"OrderedDict([('Tense', 'Pres')])",1,1,1,0,0,0,1,0,0,0,0,0,UD_Warlpiri-UFAL
+40,advcl,"OrderedDict([('Case', 'Dat'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,1,0,0,0,UD_Warlpiri-UFAL
+41,root,"OrderedDict([('Tense', 'Past')])",1,3,0,0,0,0,1,0,0,0,0,0,UD_Warlpiri-UFAL
+42,advcl,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,3,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+43,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,3,1,0,0,0,1,0,0,0,0,0,UD_Warlpiri-UFAL
+44,advcl,"OrderedDict([('VerbForm', 'Inf')])",3,0,0,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+45,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,3,1,0,0,0,1,0,0,0,0,0,UD_Warlpiri-UFAL
+46,advcl,"OrderedDict([('VerbForm', 'Inf')])",3,0,0,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+47,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,3,1,0,0,0,1,0,0,0,0,0,UD_Warlpiri-UFAL
+48,advcl,"OrderedDict([('VerbForm', 'Inf')])",3,3,0,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+49,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,3,1,0,0,0,1,0,0,0,0,0,UD_Warlpiri-UFAL
+50,advcl,"OrderedDict([('VerbForm', 'Inf')])",3,3,0,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+51,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,3,1,0,0,0,1,0,0,0,0,0,UD_Warlpiri-UFAL
+52,advcl,"OrderedDict([('VerbForm', 'Inf')])",3,3,0,0,0,0,0,0,0,3,0,0,UD_Warlpiri-UFAL
+53,root,"OrderedDict([('Mood', 'Ind'), ('Tense', 'Pres'), ('VerbForm', 'Fin')])",3,3,1,0,0,0,1,0,0,0,0,0,UD_Warlpiri-UFAL
+54,advcl,"OrderedDict([('VerbForm', 'Inf')])",3,3,0,0,0,0,0,0,0,3,0,0,UD_Warlpiri-UFAL
+55,root,"OrderedDict([('Tense', 'Pres')])",1,1,1,0,0,0,0,0,0,0,3,0,UD_Warlpiri-UFAL
+56,root,"OrderedDict([('Tense', 'Pres')])",1,3,1,0,0,0,0,0,0,0,3,0,UD_Warlpiri-UFAL
+57,root,"OrderedDict([('Tense', 'Pres')])",3,3,1,0,0,0,0,1,0,0,0,0,UD_Warlpiri-UFAL
+58,xcomp,"OrderedDict([('Case', 'Dat'), ('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+59,root,"OrderedDict([('Tense', 'Pres')])",3,3,1,0,0,0,0,1,0,0,0,0,UD_Warlpiri-UFAL
+60,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+61,root,"OrderedDict([('Number', 'Sing'), ('Person', '1'), ('Person[dat]', '3'), ('Tense', 'Past')])",0,3,0,0,0,0,0,1,0,1,0,0,UD_Warlpiri-UFAL
+62,xcomp,"OrderedDict([('VerbForm', 'Inf')])",0,0,0,3,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+63,root,"OrderedDict([('Tense', 'Pres')])",3,3,1,0,0,0,0,0,0,3,0,0,UD_Warlpiri-UFAL
+64,root,"OrderedDict([('Tense', 'Pres')])",3,3,1,0,0,0,0,0,0,3,0,3,UD_Warlpiri-UFAL
+65,root,"OrderedDict([('Tense', 'Pres')])",3,3,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+66,root,"OrderedDict([('Tense', 'Pres')])",3,3,1,0,0,0,0,0,0,3,0,0,UD_Warlpiri-UFAL
+67,root,"OrderedDict([('Tense', 'Pres')])",3,3,1,0,0,0,0,0,0,0,0,0,UD_Warlpiri-UFAL
+68,root,"OrderedDict([('Tense', 'Pres')])",3,3,1,0,0,0,0,0,0,3,0,0,UD_Warlpiri-UFAL

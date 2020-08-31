@@ -2,7 +2,7 @@ library(tidyverse)
 library(lme4)
 
 ###########
-d = read_csv("PAS-UD/args_output.csv") %>%
+d = read_csv("~/PreferredArgumentStructure/PAS-UD/args_output.csv") %>%
   filter(pos == "VERB", deprel == "root",
          grepl("_", subj_type) == F, # exclude when multiple subj or obj
          grepl("_", obj_type) == F,
@@ -107,6 +107,8 @@ d.nonlex.subj = mutate(d, nonlex.subj = subj_type_cat <= 1) %>%
   rename(A.nonlex=`TRUE`, S.nonlex=`FALSE`)
 mean(d.nonlex.subj$diff)
 
+filter(d.nonlex.subj, diff == F)
+
 d.nonlex.obj = mutate(filter(d, has_obj == T),
                       nonlex.obj = obj_type_cat <= 1) %>%
   group_by(lang) %>%
@@ -130,7 +132,7 @@ mean(a$A.nonlex > a$S.nonlex)
 mean(a$S.nonlex > a$O.nonlex)
 mean(a$A.nonlex > a$O.nonlex)
 mean(a$A.nonlex > a$S.nonlex & a$S.nonlex > a$O.nonlex)
-a[a$A.nonlex < a$S.nonlex, ]
+a[(a$A.nonlex - a$S.nonlex) < .05 , ]
 a[a$S.nonlex < a$O.nonlex, ]
 
 spread(d.o.g, variable, value) %>%
@@ -185,3 +187,25 @@ o = filter(d, has_obj == T) %>%
   select(lang, obj_type_cat, pct) %>%
   rename(O = pct) %>%
   filter(obj_type_cat == 1)
+
+
+
+#######
+d = read_csv("matrices/UD_English-EWT") %>%
+  filter(deprel == "root")
+d2 = select(d, -lang, -deprel, -feats) %>%
+  gather(variable, value, -X1) %>%
+  group_by(variable) %>%
+  mutate(n=sum(value > 0)) %>%
+  ungroup() %>%
+  mutate(variable = ifelse(n < 100, "other", variable)) %>%
+  group_by(X1, variable) %>%
+  summarise(value=sum(as.numeric(as.character(value)))) %>%
+  pivot_wider(names_from = variable, values_from = value) %>%
+  ungroup() %>%
+  select(-X1, -`NA`) %>%
+  na.omit()
+
+p = prcomp(as.matrix(d2))
+
+cor(d2)
